@@ -28,7 +28,9 @@ The New York City Airbnb Open Data set on Kaggle, consisting of over 49,000 list
 **Insights and Recommendations**
 
 **Targeted Marketing:** Airbnb hosts can target specific neighborhoods and amenities to attract higher-paying customers.
+
 **Competitive Pricing:** Hosts can adjust their prices based on the competition and amenities offered in their neighborhood.
+
 **Amenity Investment:** Investing in amenities like Wi-Fi and gym facilities can increase the attractiveness and price of listings.
 
 **Repository Structure**
