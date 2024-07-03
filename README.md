@@ -5,7 +5,7 @@
 This project analyzes the New York City Airbnb Open Data set to uncover trends, patterns, and correlations that can inform stakeholders and drive strategic planning in the short-term rental market.
 
 **Data Source**
-The New York City Airbnb Open Data set on Kaggle, consisting of over 5000 listings with 32 features, including price, location, amenities, and reviews.
+This is an Airbnb Open Data set on Kaggle, consisting of over 5000 listings with 32 features, including price, location, amenities, and reviews.
 
 **Tools and Technologies**
 
